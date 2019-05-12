@@ -3,7 +3,7 @@
 
 ## The Data
 
-#### What’s in it?
+#### **What’s in it?**
 This dataset contains data of >1500 museums scraped from TripAdvisor, for both US and world museums. The data includes general museum information, including: museum name, address, latitude and longitude, rank, number of reviews, average rating, and number of times featured by Trip Advisor. Additional data is provided per museum describing traveler and review information, including: the detailed ratings and traveler types, museum categories, and tag clouds.
 Information on fees and typical length of visit are also described in the dataset, but are vastly incomplete and therefore of little value for analysis purposes.
 I have also incorporated an additional dataset with continent and subregion information by country, in order to facilitate regional analysis.
