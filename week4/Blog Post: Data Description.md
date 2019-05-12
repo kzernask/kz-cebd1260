@@ -27,11 +27,11 @@ As you can see, **nearly two thirds of the museums are in North America (specifi
 ### Top types of museums
 Next, I looked at the top types of museums:
 
-![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/museum_types_by_region.png "Museums types by region")
+![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/museums_by_category.png "Top 15 museum categories")
 
 From the data, speciality museums account for about half of all museums, followed by art and history museums, while the rest are split between a variety of types. Although this chart only shows the top 15, **there were actually 83 distinct museum categories** – a much larger variety than expected. This analysis can also be broken down further by region:
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/museum_types_by_region.png "Museums types by region")
 
 Looking at the data side-by-side below, we can get a better sense of how the top types compare across the world:
 
