@@ -10,10 +10,10 @@ I have also incorporated an additional dataset with continent and subregion info
 
 ### What can we do with it?
 I see several opportunities that exist within this data:
--	Identify factors that result in a higher rating, or increased attendance
-  -	Insights from this analysis could be leveraged to provide potential solutions for underperforming museums to increase attendance or exposure
--	Identify regional variances between museums and correlations between attributes (categories, traveler types, attendance, ratings)
-  -	Insights from this analysis could be leveraged to design an application for traveler museum selection (with detailed filters, and geolocation mapping), a recommendation system, or a more sophisticated trip planning application
+- Identify factors that result in a higher rating, or increased attendance
+  - Insights from this analysis could be leveraged to provide potential solutions for underperforming museums to increase attendance or exposure
+- Identify regional variances between museums and correlations between attributes (categories, traveler types, attendance, ratings)
+  - Insights from this analysis could be leveraged to design an application for traveler museum selection (with detailed filters, and geolocation mapping), a recommendation system, or a more sophisticated trip planning application
 
 ## Some Preliminary Analyses
 
