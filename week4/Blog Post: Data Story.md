@@ -31,3 +31,14 @@ As could be expected, there was a relatively strong correlation between families
 Based on this insight, I started to wonder whether there were certain attributes that made museums more attractive to families versus other types of travelers. I thus computed the correlations between traveler types and tags, with the following results:
 
 ![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/correlation_tags_travelers.png)
+
+Similar to museum categories, the data showed that **attribute preferences for families are opposite those of other travelers**!!
+
+### Ok, so families go to different places than everyone else - now what?
+
+Given the apparent distinction between families and other travelers regarding both museum types and attributes, there may be an opportunity to develop a family-centric recommendation system for museum selection. The next steps are to further understand and characterize the key factors (and combinations thereof) that make a museum family-friendly.
+
+
+### Final Thoughts
+
+In general, if you're looking for a museum to visit with your family, looks for museums for all ages, or with features such as interactive exhibits. If you're going as a couple, stay away from these, and check out an art or history museum. Regardless of your choice however, you will probably learn something!
