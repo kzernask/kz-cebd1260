@@ -41,4 +41,4 @@ Given the apparent distinction between families and other travelers regarding bo
 
 ### Final Thoughts
 
-In general, if you're looking for a museum to visit with your family, looks for museums for all ages, or with features such as interactive exhibits. If you're going as a couple, check out an art or history museum (if that's your thing). Regardless of your choice however, you will probably learn something!
+In general, if you're looking for a museum to visit with your family, look for museums for all ages, or with features such as interactive exhibits. If you're going as a couple, check out an art or history museum (if that's your thing). Regardless of your choice however, you will probably learn something!
