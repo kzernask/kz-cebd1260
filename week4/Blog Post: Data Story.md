@@ -1,6 +1,7 @@
 # What I learned from [Museum Reviews Collected from TripAdvisor](https://www.kaggle.com/annecool37/museum-data)
 
-Have you ever found yourself wondering where to go when you’re on vacation, or what to do on a weekend with some spare time? Chances are you’re not alone. When thinking about going to museums, people often turn to TripAdvisor for ideas and recommendations based on what’s generally popular. But how do you know which ones will be the best for you?
+Have you ever found yourself wondering where to go when you’re on vacation, or what to do on a weekend with some spare time? Chances are you’re not alone. When thinking about going to museums, people often turn to TripAdvisor for ideas and recommendations based on what’s generally popular. But how do you know which ones will be the best for *you*? And what if you have kids??
+
 To better understand this problem, I started analysing a collection of museum data scraped from TripAdvisor.
 
 ### Who goes to museums, anyways?
@@ -22,3 +23,11 @@ Looking at the breakdowns per museum type, families and couples still made up th
 This got me thinking – were these distributions consistent across museums in each category? So, I computed the correlations between the percentages of traveler types and museum categories. The strongest relationships are shown below:
 
 ![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/correlation_categories_travelers.png)
+
+As could be expected, there was a relatively strong correlation between families and children’s museums, and weaker correlations with science and natural history museums. Interestingly enough, the data also showed a correlation between business travelers and factory tours, and a weak correlation between couples and history museums. The most surprising outcome however was that **in general, museums preferences for families are opposite those of all other traveler types**.
+
+### Do different attributes attract different traveler types?
+
+Based on this insight, I started to wonder whether there were certain attributes that made museums more attractive to families versus other types of travelers. I thus computed the correlations between traveler types and tags, with the following results:
+
+![alt text](https://github.com/kzernask/kz-cebd1260/blob/master/week4/images/correlation_tags_travelers.png)
