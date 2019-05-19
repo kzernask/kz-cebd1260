@@ -8,3 +8,9 @@ Kaggle Dataset: Museum Reviews Scraped from Trip Advisor
   - data cleaning and wrangling
   - exploratory data analysis
 - associated data
+
+### Week 4
+- 2 blog posts:
+  - data description
+  - data story
+- associated images
