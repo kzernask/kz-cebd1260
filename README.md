@@ -14,3 +14,7 @@ Kaggle Dataset: Museum Reviews Scraped from Trip Advisor
   - data description
   - data story
 - associated images
+
+### Week 5
+- 1 Jupyter notebook:
+  - regression analysis for in-class kaggle competition ([airbnb price predictions](https://www.kaggle.com/c/cebd-1260-spring-2019-regression))
