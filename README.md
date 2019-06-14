@@ -24,3 +24,8 @@ Kaggle Dataset: [Museum Reviews Scraped from Trip Advisor](https://www.kaggle.co
   - classification analysis for in-class kaggle competition ([pet adoption speed prediction](https://www.kaggle.com/c/cebd-1260-spring-2019-classification))
    - museum data ratings classification
  - associated museum data
+ 
+ ### Week 7
+- 1 Jupyter notebook:
+  - cluster analysis (kmeans)
+- associated data
