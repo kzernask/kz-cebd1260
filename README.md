@@ -1,5 +1,5 @@
 # kz-cebd1260
-Project work for Concordia CEBD-1260 Spring 2019\
+Project work for Concordia CEBD-1260 Spring 2019 - Big Data Analytics\
 Kaggle Dataset: [Museum Reviews Scraped from Trip Advisor](https://www.kaggle.com/annecool37/museum-data)
 
 ## Repository Contents
