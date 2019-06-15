@@ -38,3 +38,4 @@ Kaggle Dataset: [Museum Reviews Scraped from Trip Advisor](https://www.kaggle.co
     - data app code repository: [museum-recommender repo](https://github.com/kzernask/museum_recommender)
     - data app (heroku): [museum-recommender app](https://museum-recommender.herokuapp.com/)
 - associated data
+- final presentation slides
